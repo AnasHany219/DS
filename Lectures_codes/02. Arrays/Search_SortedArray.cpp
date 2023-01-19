@@ -28,6 +28,6 @@ int main(){
 
 //end main()
 /*
------------Output-----------
+-Output-
 Index: 5
 */
